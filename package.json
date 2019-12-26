@@ -15,7 +15,7 @@
     "engines": {
         "node": ">=10.0.0"
     },
-    "homepage": "https://github.com/kishoreBandanadam/my-app",
+    "homepage": "/",
     "husky": {
         "hooks": {
             "pre-commit": "lint-staged"
