@@ -3,7 +3,7 @@
     "description": "kishore test",
     "version": "0.0.0",
     "author": "kishoreBandanadam",
-    "bugs": "https://github.com/kishoreBandanadam/my-app/issues",
+    "bugs": "https://github.com/kishorekrrish/myapp/issues",
     "dependencies": {
         "lwc-services": "^1.3.12"
     },
@@ -15,7 +15,7 @@
     "engines": {
         "node": ">=10.0.0"
     },
-    "homepage": "/",
+    "homepage": "https://github.com/kishorekrrish/myapp",
     "husky": {
         "hooks": {
             "pre-commit": "lint-staged"
