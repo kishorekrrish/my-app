@@ -48,7 +48,7 @@
         ],
         "exec": "node ./scripts/express-dev.js"
     },
-    "repository": "kishoreBandanadam/my-app",
+    "repository": "kishorekrrish/myapp",
     "scripts": {
         "build": "lwc-services build -m production",
         "build:development": "lwc-services build",
