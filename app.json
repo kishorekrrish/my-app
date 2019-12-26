@@ -1,5 +1,5 @@
 {
-    "name": "lwc-recipes-oss",
+    "name": "myapp",
     "description": "Config for Heroku Pipelines and Review Apps",
     "repository": "https://github.com/kishorekrrish/myapp",
     "scripts": {},
